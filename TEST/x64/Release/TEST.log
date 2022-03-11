@@ -1,0 +1,185 @@
+﻿  main.cpp
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(238): warning C4244: “=”: 从“float”转换到“unsigned short”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(323): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(326): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(359): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(362): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(410): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(661): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\mp\3dcamerasdk-v1_0\inc\hpp\processing.hpp(662): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(68): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(72): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(73): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(74): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(128): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(132): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(133): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(134): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(166): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(170): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(171): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(172): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\dell\desktop\test\test\mysift.h(309): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(339): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(340): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(341): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(351): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(352): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(353): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(354): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(361): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(360): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(359): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(363): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(364): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(365): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(366): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(367): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(368): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(386): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(387): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(388): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(402): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(403): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(404): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(405): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(412): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(411): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(410): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(415): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(423): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(440): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(450): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(451): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(452): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\dell\desktop\test\test\mysift.h(457): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(458): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(459): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(460): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(463): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(464): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\mysift.h(465): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dell\desktop\test\test\circlepointdector.h(30): warning C4305: “=”: 从“double”到“float”截断
+c:\users\dell\desktop\test\test\main.cpp(82): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  正在生成代码
+  1 of 685 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TEST.vcxproj -> C:\Users\dell\Desktop\TEST\x64\Release\TEST.exe
